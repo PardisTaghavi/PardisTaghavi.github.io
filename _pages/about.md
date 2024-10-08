@@ -34,12 +34,13 @@ Hi! I am a 3rd year PhD student at Texas A&M University, advised by Prof. <a hre
 
 **Pardis Taghavi**, Reza Langari, Gaurav Pandey
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<a href='https://github.com/PardisTaghavi/SwinMTL'> code  |  <a href='https://arxiv.org/abs/2403.10662'> arxiv
+- A simple but effective multi-task learning framework that allows concurrent depth estimation and semantic segmentation using a single camera and without compromising computational efficiency.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# Projects 
+
 
 # 🎖 Honors and Awards
 - *2021.09* Graduated Summa Cum Laude from Politecnico di Torino University
