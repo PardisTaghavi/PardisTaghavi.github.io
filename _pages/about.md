@@ -23,7 +23,7 @@ Hi! I am a 3rd year PhD student at Texas A&M University, advised by Prof. <a hre
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- * 2024.06* &nbsp;🎉🎉 <a href='https://arxiv.org/abs/2403.10662'> SwinMTL was accepted to IROS'24.
+- *2024.06* &nbsp;🎉🎉 <a href='https://arxiv.org/abs/2403.10662'> SwinMTL was accepted to IROS'24.
 
 # 📝 Publications 
 
