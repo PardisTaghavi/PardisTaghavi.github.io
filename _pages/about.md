@@ -44,7 +44,7 @@ Hi! I am a 3rd year PhD student at Texas A&M University, advised by Prof. <a hre
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/ava.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AVA: Autonomous Vehicles for All]
+[AVA: Autonomous Vehicles for All](https://drive.google.com/file/d/1MTRJuR63yex1-7sKRrKlVf9gbW4TxW2-/view?usp=drive_link)
 
 </div>
 </div>
@@ -52,16 +52,19 @@ Hi! I am a 3rd year PhD student at Texas A&M University, advised by Prof. <a hre
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/mcity.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MCITY 2.0 USE CASE AV PERCEPTION]
+[MCITY 2.0 USE CASE AV PERCEPTION](https://github.com/PardisTaghavi/Mcity2.0_demo)
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/tracking.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/tracking2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Real-Time 3D Multi-Object Tracking]
+[Real-Time 3D Multi-Object Tracking](https://github.com/PardisTaghavi/real_time_tracking_AB3DMOT)
+
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
