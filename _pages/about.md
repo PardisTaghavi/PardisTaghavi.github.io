@@ -41,6 +41,7 @@ Hi! I am a 3rd year PhD student at Texas A&M University, advised by Prof. <a hre
 
 # Projects 
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/ava.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -48,7 +49,7 @@ Hi! I am a 3rd year PhD student at Texas A&M University, advised by Prof. <a hre
 
 </div>
 </div>
-
+-->
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/mcity.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
