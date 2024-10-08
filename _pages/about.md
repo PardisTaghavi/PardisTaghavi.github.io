@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a 3rd year PhD student at Texas A&M University, advised by Prof. <a href='https://aimerykong.github.io/index.html'> Shu Kong and Prof. <a href='https://sites.google.com/tamu.edu/gpandey/'> Gaurav Pandey. I earned my undergraduate degree in Mechanical Engineering from Politecnico di Torino. My current research is primarily centered on computer vision, with a secondary focus on language models, for self-driving car applications.
+Hi! I am a 3rd year PhD student at Texas A&M University, advised by Prof. <a href='https://aimerykong.github.io/index.html'> Shu Kong </a> and Prof. <a href='https://sites.google.com/tamu.edu/gpandey/'> Gaurav Pandey</a>. I earned my undergraduate degree in Mechanical Engineering from Politecnico di Torino. My current research is primarily centered on computer vision, with a secondary focus on language models, for self-driving car applications.
 
 
 # 🔥 News
