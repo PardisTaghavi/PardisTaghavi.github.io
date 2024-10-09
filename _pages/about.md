@@ -56,8 +56,14 @@ https://aimerykong.github.io/group.html
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/mcity.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MCITY 2.0 USE CASE AV PERCEPTION](https://github.com/PardisTaghavi/Mcity2.0_demo)
+MCITY 2.0 USE CASE AV PERCEPTION
+
 **Pardis Taghavi**, Gaurav Pandey
+
+<a href='https://github.com/PardisTaghavi/Mcity2.0_demo'> code</a> 
+
+- 3D point cloud generation and clustering techniques for improved object detection and scene understanding in autonomous vehicle systems.
+- Validated algorithm outputs through simulation and remote operation on a real autonomous test vehicle at MCity 2.0.
 
 </div>
 </div>
