@@ -44,7 +44,7 @@ https://aimerykong.github.io/group.html
 # Projects 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/ava.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ava_.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 AVA: Autonomous Vehicles for All
