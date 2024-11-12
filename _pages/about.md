@@ -49,7 +49,7 @@ https://aimerykong.github.io/group.html
 
 **AVA: Autonomous Vehicles for All**
 
-<a href='https://avadataportal.web.illinois.edu/index.html'> code</a> 
+<a href='https://avadataportal.web.illinois.edu/index.html'> website</a> 
 - Lead of the Perception Team : Developed a perception system tailored for diverse route scenarios, including both urban and rural environments.
 
 </div>
