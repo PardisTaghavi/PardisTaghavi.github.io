@@ -21,7 +21,6 @@ Hi! I am a 3rd year PhD student at Texas A&M University, advised by Prof. <a hre
 
 
 # 🔥 News
-https://aimerykong.github.io/group.html
 
 - *2024.10* &nbsp;🎉🎉 Successfully demonstrated our first remote perception capabilities for the <a href='https://mcity.umich.edu/'> Mcity</a> Demo Project.
 - *2024.08* &nbsp;🎉🎉 Joined Prof. Shu Kong's <a href='https://aimerykong.github.io/group.html'> Computer Vision Lab</a>. 
