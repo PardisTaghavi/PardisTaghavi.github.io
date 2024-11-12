@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a 3rd year PhD student at Texas A&M University, advised by Prof. <a href='https://aimerykong.github.io/index.html'> Shu Kong </a> and Prof. <a href='https://sites.google.com/tamu.edu/gpandey/'> Gaurav Pandey</a>. I earned my undergraduate degree in Mechanical Engineering from Politecnico di Torino. My current research is primarily centered on computer vision, with a secondary focus on language models, for self-driving car applications.
+Hi! I am a 3rd year PhD student at Texas A&M University, advised by Prof. <a href='https://aimerykong.github.io/index.html'>Shu Kong</a> and Prof. <a href='https://sites.google.com/tamu.edu/gpandey/'>Gaurav Pandey</a>. I earned my undergraduate degree in Mechanical Engineering from Politecnico di Torino. My current research is primarily centered on computer vision, with a secondary focus on language models for self-driving car applications.
 
 
 # 🔥 News
 https://aimerykong.github.io/group.html
 
 - *2024.10* &nbsp;🎉🎉 Successfully demonstrated our first remote perception capabilities for the <a href='https://mcity.umich.edu/'> Mcity</a> Demo Project.
-- *2024.08* &nbsp;🎉🎉 Joined <a href='https://aimerykong.github.io/group.html'> Computer Vidion Lab</a>. 
-- *2024.06* &nbsp;🎉🎉  <a href='https://arxiv.org/abs/2403.10662'> SwinMTL</a> paper was accepted to IROS'24.
+- *2024.08* &nbsp;🎉🎉 Joined Prof. Shu Kong's <a href='https://aimerykong.github.io/group.html'> Computer Vision Lab</a>. 
+- *2024.06* &nbsp;🎉🎉  <a href='https://arxiv.org/abs/2403.10662'> SwinMTL</a> paper was accepted to IROS'24. <a href="https://github.com/PardisTaghavi/SwinMTL">[code]</a>
 
 # 📝 Publications 
 
@@ -82,7 +82,6 @@ MCITY 2.0 USE CASE AV PERCEPTION
 - *2024.06* NSF Subaward for Autonomous Vehicle Perception Testing at MCity.
 - *2021.09* Graduated Summa Cum Laude from Politecnico di Torino University.
 - *2018.09* Won TOPolito Scholarship: Awarded to the top 10 students of the engineering school. 
-# 📖 Educations
-- *2022.01 - (now)*, PhD Student, Texas A&M University
-- *2018.09 - 2021.09*, Undergraduate, Politecnico di Torino University
-
+# 📖 Education
+- *2022.01 - present*, PhD Student, Texas A&M University
+- *2018.09 - 2021.09*, Bachelor's Degree, Politecnico di Torino University
