@@ -23,7 +23,8 @@ Hi! I am a 3rd year PhD student at Texas A&M University, advised by Prof. <a hre
 # 🔥 News
 
 - *2024.10* &nbsp;🎉🎉 Successfully demonstrated our first remote perception capabilities for the <a href='https://mcity.umich.edu/'> Mcity</a> Demo Project.
-- *2024.08* &nbsp;🎉🎉 Joined Prof. Shu Kong's <a href='https://aimerykong.github.io/group.html'> Computer Vision Lab</a>. 
+- *2024.08* &nbsp;🎉🎉 Joined Prof. Shu Kong's <a href='https://aimerykong.github.io/group.html'> Computer Vision Lab</a>.
+- *2024.07* &nbsp;🎉🎉 Completed approximately 20 miles in autonomous mode under rainy weather conditions during the first AVA project demo on a public road.
 - *2024.06* &nbsp;🎉🎉  <a href='https://arxiv.org/abs/2403.10662'> SwinMTL</a> paper was accepted to IROS'24. <a href="https://github.com/PardisTaghavi/SwinMTL">[code]</a>
 
 # 📝 Publications 
