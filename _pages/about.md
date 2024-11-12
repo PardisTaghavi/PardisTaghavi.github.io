@@ -43,15 +43,18 @@ https://aimerykong.github.io/group.html
 
 # Projects 
 
-<!--
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/ava.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AVA: Autonomous Vehicles for All](https://drive.google.com/file/d/1MTRJuR63yex1-7sKRrKlVf9gbW4TxW2-/view?usp=drive_link)
+AVA: Autonomous Vehicles for All
+
+<a href='https://avadataportal.web.illinois.edu/index.html'> code</a> 
+- Lead of the Perception Team
 
 </div>
 </div>
--->
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/mcity.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
