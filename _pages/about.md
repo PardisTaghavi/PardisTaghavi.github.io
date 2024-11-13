@@ -38,8 +38,8 @@ Hi! I am a 3rd year PhD student at Texas A&M University, advised by Prof. <a hre
 
 <a href='https://github.com/PardisTaghavi/SwinMTL'> code</a>  |  <a href='https://arxiv.org/abs/2403.10662'> arxiv</a> 
 - A simple but effective multi-task learning framework that allows concurrent depth estimation and semantic segmentation using a single camera and without compromising computational efficiency.
-</div>
-</div>
+
+
 
 # Projects 
 
@@ -66,16 +66,15 @@ Hi! I am a 3rd year PhD student at Texas A&M University, advised by Prof. <a hre
 - 3D point cloud generation and clustering techniques for improved object detection and scene understanding from a single RGB image.
 - Validated algorithm outputs through simulation and remote operation on a real autonomous test vehicle at MCity 2.0.
 
-</div>
-</div>
-
 
 
 
 # 🎖 Honors and Awards
 - *2024.06* NSF Subaward for Autonomous Vehicle Perception Testing at MCity.
 - *2021.09* Graduated Summa Cum Laude from Politecnico di Torino University.
-- *2018.09* Won TOPolito Scholarship: Awarded to the top 10 students of the engineering school. 
+- *2018.09* Won TOPolito Scholarship: Awarded to the top 10 students of the engineering school.
+
+
 # 📖 Education
 - *2022.01 - present*, PhD Student, Texas A&M University
 - *2018.09 - 2021.09*, Bachelor's Degree, Politecnico di Torino University
