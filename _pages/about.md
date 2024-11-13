@@ -40,6 +40,8 @@ Hi! I am a 3rd year PhD student at Texas A&M University, advised by Prof. <a hre
 - A simple but effective multi-task learning framework that allows concurrent depth estimation and semantic segmentation using a single camera and without compromising computational efficiency.
 
 
+</div>
+</div>
 
 # Projects 
 
@@ -66,6 +68,8 @@ Hi! I am a 3rd year PhD student at Texas A&M University, advised by Prof. <a hre
 - 3D point cloud generation and clustering techniques for improved object detection and scene understanding from a single RGB image.
 - Validated algorithm outputs through simulation and remote operation on a real autonomous test vehicle at MCity 2.0.
 
+</div>
+</div>
 
 
 
