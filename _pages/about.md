@@ -27,9 +27,6 @@ Hi! I am a 3rd year PhD student at Texas A&M University, advised by Prof. <a hre
 - *2024.07* &nbsp;🎉🎉 Completed approximately 20 miles in autonomous mode under rainy weather conditions during the first AVA project demo on a public road.
 - *2024.06* &nbsp;🎉🎉  <a href='https://arxiv.org/abs/2403.10662'> SwinMTL</a> paper was accepted to IROS'24. <a href="https://github.com/PardisTaghavi/SwinMTL">[code]</a>
 
-</div>
-</div>
-
 
 # 📝 Publications 
 
@@ -43,12 +40,11 @@ Hi! I am a 3rd year PhD student at Texas A&M University, advised by Prof. <a hre
 <a href='https://github.com/PardisTaghavi/SwinMTL'> code</a>  |  <a href='https://arxiv.org/abs/2403.10662'> arxiv</a> 
 - A simple but effective multi-task learning framework that allows concurrent depth estimation and semantic segmentation using a single camera and without compromising computational efficiency.
 
+</div>
+</div>
 
-</div>
-</div>
 
 # Projects 
-
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/ava_.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
