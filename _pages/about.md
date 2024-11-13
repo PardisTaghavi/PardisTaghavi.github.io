@@ -70,15 +70,6 @@ Hi! I am a 3rd year PhD student at Texas A&M University, advised by Prof. <a hre
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/tracking2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Real-Time 3D Multi-Object Tracking](https://github.com/PardisTaghavi/real_time_tracking_AB3DMOT)
-
-</div>
-</div>
-
-
 
 
 # 🎖 Honors and Awards
