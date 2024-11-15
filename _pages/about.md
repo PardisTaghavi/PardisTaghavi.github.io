@@ -38,7 +38,7 @@ Hi! I am a 3rd year PhD student at Texas A&M University, advised by Prof. <a hre
 **Pardis Taghavi**, Reza Langari, Gaurav Pandey
 
 <a href='https://github.com/PardisTaghavi/SwinMTL'> code</a>  |  <a href='https://arxiv.org/abs/2403.10662'> arxiv</a> 
-- A simple but effective multi-task learning framework that allows concurrent depth estimation and semantic segmentation using a single camera and without compromising computational efficiency.
+- A simple and effective multi-task learning framework that allows concurrent depth estimation and semantic segmentation using a single camera and without compromising computational efficiency.
 
 </div>
 </div>
