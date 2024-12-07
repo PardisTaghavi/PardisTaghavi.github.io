@@ -14,6 +14,7 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<meta name="msvalidate.01" content="8149475937CBBE15CEA9FF9F5690C937" />
 
 <span class='anchor' id='about-me'></span>
 
