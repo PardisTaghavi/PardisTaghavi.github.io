@@ -18,13 +18,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a 3rd year PhD student at Texas A&M University, advised by Prof. <a href='https://aimerykong.github.io/index.html'>Shu Kong</a> and Prof. <a href='https://sites.google.com/tamu.edu/cvrl/people?authuser=0'>Gaurav Pandey</a>. I earned my undergraduate degree in Mechanical Engineering from Politecnico di Torino. My current research is primarily centered on computer vision, with a secondary focus on language models for self-driving car applications.
+Hi! I am a 3rd year PhD student at Texas A&M University, advised by Prof. Reza Langari and Prof. <a href='https://sites.google.com/tamu.edu/cvrl/people?authuser=0'>Gaurav Pandey</a>. I earned my undergraduate degree in Mechanical Engineering from Politecnico di Torino. My current research is primarily centered on computer vision, with a secondary focus on language models for self-driving car applications.
 
 
 # 🔥 News
 
 - *2024.10* &nbsp;🎉🎉 Successfully demonstrated our first remote perception capabilities for the <a href='https://mcity.umich.edu/'> Mcity</a> Demo Project <a href="https://www.youtube.com/watch?v=jPO9OaSdtlA">[Link]</a>.
-- *2024.08* &nbsp;🎉🎉 Joined Prof. Shu Kong's <a href='https://aimerykong.github.io/group.html'> Computer Vision Lab</a>.
 - *2024.07* &nbsp;🎉🎉 Completed approximately 20 miles in autonomous mode under rainy weather conditions during the first AVA project demo on a public road.
 - *2024.06* &nbsp;🎉🎉  <a href='https://arxiv.org/abs/2403.10662'> SwinMTL</a> paper was accepted to IROS'24 <a href="https://github.com/PardisTaghavi/SwinMTL">[code]</a>.
 
