@@ -32,14 +32,19 @@ Hi! I am a 3rd year PhD student at Texas A&M University, advised by Prof. Reza L
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/irosPaper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [SwinMTL: A Shared Architecture for Simultaneous Depth Estimation and Semantic Segmentation from Monocular Camera Images](https://arxiv.org/pdf/2403.10662)
-
 **Pardis Taghavi**, Reza Langari, Gaurav Pandey
-
-<a href='https://github.com/PardisTaghavi/SwinMTL'> code</a>  |  <a href='https://arxiv.org/abs/2403.10662'> arxiv</a> 
+<a href='https://github.com/PardisTaghavi/SwinMTL'> code</a>  |  <a href='https://arxiv.org/abs/2403.10662'> arXiv</a> 
 - A simple and effective multi-task learning framework that allows concurrent depth estimation and semantic segmentation using a single camera and without compromising computational efficiency.
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/castPaper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[CAST: Contrastive Adaptation and Distillation for Semi-Supervised Instance Segmentation](https://arxiv.org/pdf/2403.10662)
+**Pardis Taghavi**, Tian Liu, Renjie Li, Reza Langari, Zhengzhong Tu
+<a href='https://arxiv.org/pdf/2505.21904'> arXiv</a> 
+- CAST is a semi‐supervised knowledge distillation(SSKD) framework that compresses pretrained vision‐foundation models (VFMs) into compact expert networks by leveraging limited labeled data and abundant unlabeled data via stage‐wise fine‐tuning coupled with a contrastive self‐supervised loss.
 </div>
 </div>
 
