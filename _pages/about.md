@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a 3rd year PhD student at Texas A&M University, advised by Prof. Reza Langari and Prof. Zhengzhong Tu. I earned my undergraduate degree in Mechanical Engineering from Politecnico di Torino. My current research is primarily centered on computer vision, with a secondary focus on language models for self-driving car applications.
+Hi! I am a fourth-year PhD student at Texas A&M University, advised by Prof. Reza Langari and Prof. Zhengzhong Tu. Previously, I worked with Dr. Shu Kong and Gaurav Pandey. I earned my undergraduate degree in Mechanical Engineering from Politecnico di Torino. My current research is primarily centered on computer vision and language-vision models for self-driving car applications.
 
 
 # 🔥 News
