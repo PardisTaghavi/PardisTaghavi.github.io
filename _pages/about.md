@@ -33,8 +33,8 @@ Hi! I am a fourth-year PhD student at Texas A&M University, advised by Prof. Rez
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/castPaper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [CAST: Contrastive Adaptation and Distillation for Semi-Supervised Instance Segmentation](https://arxiv.org/pdf/2403.10662)
-**Pardis Taghavi**, Tian Liu, Renjie Li, Reza Langari, Zhengzhong Tu
-<a href='https://arxiv.org/pdf/2505.21904'> arXiv</a> 
+**Pardis Taghavi**, Tian Liu, Renjie Li, Reza Langari, Zhengzhong Tu : 
+<a href = 'https://arxiv.org/pdf/2505.21904'> arXiv</a> 
 - CAST is a semi‐supervised knowledge distillation(SSKD) framework that compresses pretrained vision‐foundation models (VFMs) into compact expert networks by leveraging limited labeled data and abundant unlabeled data via stage‐wise fine‐tuning coupled with a contrastive self‐supervised loss.
 </div>
 </div>
