@@ -23,6 +23,8 @@ Hi! I am a fourth-year PhD student at Texas A&M University, advised by Prof. Rez
 
 # 🔥 News
 
+- *2025.06* &nbsp;🎉🎉 Started an AI Engineer internship at Rivian and Volkswagen Company.
+- *2025.05* &nbsp;🎉🎉 Joined <a href="https://taco-group.github.io/group.html">the TACO Group</a> under the supervision of Dr. Zhengzhong Tu.
 - *2024.10* &nbsp;🎉🎉 Successfully demonstrated our first remote perception capabilities for the <a href='https://mcity.umich.edu/'> Mcity</a> Demo Project <a href="https://www.youtube.com/watch?v=jPO9OaSdtlA">[Link]</a>.
 - *2024.07* &nbsp;🎉🎉 Completed approximately 20 miles in autonomous mode under rainy weather conditions during the first AVA project demo on a public road.
 - *2024.06* &nbsp;🎉🎉  <a href='https://arxiv.org/abs/2403.10662'> SwinMTL</a> paper was accepted to IROS'24 <a href="https://github.com/PardisTaghavi/SwinMTL">[code]</a>.
