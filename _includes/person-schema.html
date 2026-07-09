@@ -1,24 +1,18 @@
-{% assign author = site.author %}
-{% assign profile_url = site.url | append: "/" %}
-{% assign profile_image = author.avatar %}
-{% unless profile_image contains '://' %}
-  {% assign profile_image = site.url | append: '/' | append: profile_image %}
-{% endunless %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "ProfilePage",
-  "url": {{ profile_url | jsonify }},
-  "name": {{ site.title | jsonify }},
-  "description": {{ site.description | jsonify }},
+  "url": "https://pardistaghavi.github.io/",
+  "name": "Pardis Taghavi website",
+  "description": "Final-year Ph.D. student at Texas A&M researching efficient and controllable video world models for autonomous driving.",
   "mainEntity": {
     "@type": "Person",
-    "name": {{ author.name | jsonify }},
-    "url": {{ profile_url | jsonify }},
-    "image": {{ profile_image | jsonify }},
-    "description": {{ site.description | jsonify }},
-    "email": {{ author.email | jsonify }},
-    "jobTitle": {{ author.bio | jsonify }},
+    "name": "Pardis Taghavi",
+    "url": "https://pardistaghavi.github.io/",
+    "image": "https://pardistaghavi.github.io/images/Cropped_Image.png",
+    "description": "Final-year Ph.D. student at Texas A&M researching efficient and controllable video world models for autonomous driving.",
+    "email": "taghavi.pardis@gmail.com",
+    "jobTitle": "Ph.D. student at Texas A&M University",
     "affiliation": {
       "@type": "Organization",
       "name": "Texas A&M University"
@@ -30,20 +24,10 @@
       "Video Generation"
     ],
     "sameAs": [
-      {%- if author.googlescholar -%}
-      {{ author.googlescholar | jsonify }}{%- endif -%}
-      {%- if author.github -%}
-      {%- if author.googlescholar -%},{%- endif -%}
-      {{ "https://github.com/" | append: author.github | jsonify }}
-      {%- endif -%}
-      {%- if author.linkedin -%}
-      {%- if author.googlescholar or author.github -%},{%- endif -%}
-      {{ "https://www.linkedin.com/in/" | append: author.linkedin | jsonify }}
-      {%- endif -%}
-      {%- if author.orcid -%}
-      {%- if author.googlescholar or author.github or author.linkedin -%},{%- endif -%}
-      {{ author.orcid | jsonify }}
-      {%- endif -%}
+      "https://scholar.google.com/citations?user=TX9IfGoAAAAJ&hl",
+      "https://github.com/PardisTaghavi",
+      "https://www.linkedin.com/in/pardis-taghavi",
+      "https://orcid.org/0009-0007-3794-7205"
     ]
   }
 }
