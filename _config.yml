@@ -7,7 +7,9 @@
 
 # Site Settings
 title                    : "Pardis Taghavi website"
-description              : ""
+description              : "Final-year Ph.D. student at Texas A&M researching efficient and controllable video world models for autonomous driving."
+url                      : "https://pardistaghavi.github.io"
+baseurl                  : ""
 repository               : "PardisTaghavi/PardisTaghavi.github.io"
 google_scholar_stats_use_cdn : true
 
