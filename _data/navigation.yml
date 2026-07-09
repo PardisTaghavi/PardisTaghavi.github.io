@@ -6,8 +6,8 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Selected Papers"
-    url: "/#-selected-papers"
+  - title: "Selected Publications"
+    url: "/#-selected-publications"
     
   - title: "Projects"
     url: "/#-projects"
