@@ -68,6 +68,7 @@ Ximeng Tao, **Pardis Taghavi**, Dimitar Filev, Reza Langari, Gaurav Pandey
 </div>
 </div>
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/specKitPaper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Spec Kit Agents: Context-Grounded Agentic Workflows](https://sbhavani.github.io/speckit-agents/)
@@ -76,6 +77,7 @@ Ximeng Tao, **Pardis Taghavi**, Dimitar Filev, Reza Langari, Gaurav Pandey
 - A multi-agent spec-driven development pipeline with context-grounding hooks that grounds each SDD stage in repository evidence, reducing hallucinated APIs and improving judged implementation quality.
 </div>
 </div>
+-->
 
 
 # Projects 
