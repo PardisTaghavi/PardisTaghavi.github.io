@@ -70,9 +70,9 @@ Ximeng Tao, **Pardis Taghavi**, Dimitar Filev, Reza Langari, Gaurav Pandey
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/specKitPaper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Spec Kit Agents: Context-Grounded Agentic Workflows](https://arxiv.org/pdf/2604.05278)
+[Spec Kit Agents: Context-Grounded Agentic Workflows](https://sbhavani.github.io/speckit-agents/)
 **Pardis Taghavi**, Santosh Bhavani
-<a href='https://arxiv.org/abs/2604.05278'> arXiv</a>  |  <a href='https://github.com/PardisTaghavi/speckit-agents'> code</a>
+<a href='https://arxiv.org/abs/2604.05278'> arXiv</a>  |  <a href='https://github.com/PardisTaghavi/speckit-agents'> code</a>  |  <a href='https://sbhavani.github.io/speckit-agents/'> project page</a>
 - A multi-agent spec-driven development pipeline with context-grounding hooks that grounds each SDD stage in repository evidence, reducing hallucinated APIs and improving judged implementation quality.
 </div>
 </div>
