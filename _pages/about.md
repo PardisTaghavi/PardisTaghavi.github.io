@@ -86,6 +86,13 @@ Ximeng Tao, **Pardis Taghavi**, Dimitar Filev, Reza Langari, Gaurav Pandey
 -->
 
 
+# 💼 Experience
+
+- **Rivian and Volkswagen Group Technologies** — *AI Engineer Intern*  
+  *Jun 2025 – Present · Mountain View, CA*  
+  Working on generative AI and video world models for autonomous driving applications.
+
+
 # Projects 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/ava_.png' alt="sym" width="100%"></div></div>
