@@ -30,7 +30,7 @@ Hi! I am a fourth-year PhD student at Texas A&M University, advised by Prof. Rez
 - *2024.06* &nbsp;🎉🎉  <a href='https://arxiv.org/abs/2403.10662'> SwinMTL</a> paper was accepted to IROS'24 <a href="https://github.com/PardisTaghavi/SwinMTL">[code]</a>.
 
 
-# 📝 Publications 
+# 📝 Selected Papers 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2026</div><img src='images/castPaper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
