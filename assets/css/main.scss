@@ -111,19 +111,20 @@ h1:before, .anchor:before {
 .research-tags {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.5rem;
-    margin: 1rem 0 0.5rem 0;
+    align-items: center;
+    gap: 1rem;
+    margin: 1.25rem 0 0.75rem 0;
 }
 
 .topic-tag {
     display: inline-block;
-    padding: 0.35rem 0.85rem;
-    border: 1.5px solid #00369f;
+    padding: 0.5rem 1.15rem;
+    border: none;
     border-radius: 999px;
-    color: #00369f;
-    background: #f5f8fc;
-    font-size: 0.88rem;
-    font-weight: 600;
-    letter-spacing: 0.01em;
-    line-height: 1.2;
+    color: #ffffff;
+    background-color: #6bb0e8;
+    font-size: 0.92rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    line-height: 1.3;
 }
