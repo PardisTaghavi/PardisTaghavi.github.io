@@ -89,8 +89,7 @@ Ximeng Tao, **Pardis Taghavi**, Dimitar Filev, Reza Langari, Gaurav Pandey
 # 💼 Experience
 
 - **Rivian and Volkswagen Group Technologies** — *Artificial Intelligence Engineer Intern*  
-  *Jun 2025 – Sep 2025 · United States*  
-  Developed reinforcement learning systems for autonomous driving decision-making and learning-based AI pipelines for vehicle intelligence applications.
+  *Jun 2025 – Sep 2025 · United States*
 
 
 # Projects 
