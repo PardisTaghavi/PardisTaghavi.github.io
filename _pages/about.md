@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
+description: "Final-year Ph.D. student at Texas A&M researching efficient and controllable video world models for autonomous driving."
 author_profile: true
 redirect_from: 
   - /about/
