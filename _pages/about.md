@@ -92,7 +92,7 @@ Ximeng Tao, **Pardis Taghavi**, Dimitar Filev, Reza Langari, Gaurav Pandey
   *Jun 2025 – Sep 2025 · United States*
 
 
-# Projects 
+# 🚀 Projects 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/ava_.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
