@@ -50,6 +50,33 @@ Hi! I am a fourth-year PhD student at Texas A&M University, advised by Prof. Rez
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[The Pulse of Motion: Measuring Physical Frame Rate from Visual Dynamics](https://arxiv.org/pdf/2603.14375)
+Xiangbo Gao, Mingyang Wu, Siyuan Yang, Jiongze Yu, **Pardis Taghavi**, Fangzhou Lin, Zhengzhong Tu
+<a href='https://arxiv.org/abs/2603.14375'> arXiv</a>  |  <a href='https://xiangbogaobarry.github.io/Visual_Chronometer/'> project page</a>
+- Proposes Visual Chronometer, a predictor that recovers Physical Frames Per Second (PhyFPS) from visual dynamics to address chronometric hallucination in generative video models and improve perceived motion naturalness.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/tracking2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[NaviDriveVLM: Decoupling High-Level Reasoning and Motion Planning for Autonomous Driving](https://arxiv.org/pdf/2603.07901)
+Ximeng Tao, **Pardis Taghavi**, Dimitar Filev, Reza Langari, Gaurav Pandey
+<a href='https://arxiv.org/abs/2603.07901'> arXiv</a>
+- A decoupled Navigator-Driver framework that separates semantic reasoning from waypoint prediction, preserving strong VLM reasoning while enabling efficient adaptation for end-to-end motion planning on nuScenes.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Spec Kit Agents: Context-Grounded Agentic Workflows](https://arxiv.org/pdf/2604.05278)
+**Pardis Taghavi**, Santosh Bhavani
+<a href='https://arxiv.org/abs/2604.05278'> arXiv</a>  |  <a href='https://github.com/PardisTaghavi/speckit-agents'> code</a>
+- A multi-agent spec-driven development pipeline with context-grounding hooks that grounds each SDD stage in repository evidence, reducing hallucinated APIs and improving judged implementation quality.
+</div>
+</div>
+
 
 # Projects 
 
