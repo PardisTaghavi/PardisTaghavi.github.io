@@ -50,7 +50,7 @@ Hi! I am a fourth-year PhD student at Texas A&M University, advised by Prof. Rez
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/pulsePaper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [The Pulse of Motion: Measuring Physical Frame Rate from Visual Dynamics](https://arxiv.org/pdf/2603.14375)
 Xiangbo Gao, Mingyang Wu, Siyuan Yang, Jiongze Yu, **Pardis Taghavi**, Fangzhou Lin, Zhengzhong Tu
@@ -59,7 +59,7 @@ Xiangbo Gao, Mingyang Wu, Siyuan Yang, Jiongze Yu, **Pardis Taghavi**, Fangzhou 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/tracking2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/naviDrivePaper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [NaviDriveVLM: Decoupling High-Level Reasoning and Motion Planning for Autonomous Driving](https://arxiv.org/pdf/2603.07901)
 Ximeng Tao, **Pardis Taghavi**, Dimitar Filev, Reza Langari, Gaurav Pandey
@@ -68,7 +68,7 @@ Ximeng Tao, **Pardis Taghavi**, Dimitar Filev, Reza Langari, Gaurav Pandey
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/specKitPaper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Spec Kit Agents: Context-Grounded Agentic Workflows](https://arxiv.org/pdf/2604.05278)
 **Pardis Taghavi**, Santosh Bhavani
