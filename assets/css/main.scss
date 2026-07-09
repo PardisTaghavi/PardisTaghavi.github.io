@@ -128,3 +128,39 @@ h1:before, .anchor:before {
     letter-spacing: 0.02em;
     line-height: 1.3;
 }
+
+// Brand colors for sidebar social and academic icons
+.author__urls.social-icons,
+.author__urls_sm {
+    .fa-envelope {
+        color: #D44638;
+    }
+
+    .fa-twitter,
+    .fa-twitter-square {
+        color: #55acee;
+    }
+
+    .fa-linkedin,
+    .fa-linkedin-in {
+        color: #0077b5;
+    }
+
+    .fa-github {
+        color: #181717;
+    }
+
+    .fa-graduation-cap {
+        color: #4285f4;
+    }
+
+    .ai-orcid,
+    .ai-orcid-square {
+        color: #a6ce39;
+    }
+
+    .ai-dblp,
+    .ai-dblp-square {
+        color: #2f7f33;
+    }
+}
