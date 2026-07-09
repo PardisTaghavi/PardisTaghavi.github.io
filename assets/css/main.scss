@@ -129,38 +129,35 @@ h1:before, .anchor:before {
     line-height: 1.3;
 }
 
-// Brand colors for sidebar social and academic icons
-.author__urls.social-icons,
-.author__urls_sm {
-    .fa-envelope {
-        color: #D44638;
-    }
+.profile_box {
+    .author__urls,
+    .author__urls_sm {
+        .fa-envelope {
+            color: #7a8288;
+        }
 
-    .fa-twitter,
-    .fa-twitter-square {
-        color: #55acee;
-    }
+        .fa-twitter-square {
+            color: #1da1f2;
+        }
 
-    .fa-linkedin,
-    .fa-linkedin-in {
-        color: #0077b5;
-    }
+        .fa-linkedin {
+            color: #0a66c2;
+        }
 
-    .fa-github {
-        color: #181717;
-    }
+        .ai-dblp {
+            color: #005f4e;
+        }
 
-    .fa-graduation-cap {
-        color: #4285f4;
-    }
+        .fa-github {
+            color: #24292f;
+        }
 
-    .ai-orcid,
-    .ai-orcid-square {
-        color: #a6ce39;
-    }
+        .fa-graduation-cap {
+            color: #4285f4;
+        }
 
-    .ai-dblp,
-    .ai-dblp-square {
-        color: #2f7f33;
+        .ai-orcid-square {
+            color: #a6ce39;
+        }
     }
 }
