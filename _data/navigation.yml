@@ -1,13 +1,13 @@
 main:
   - title: "News"
-    url: "/#news"
+    url: /news/
   - title: "Publications"
-    url: "/#publications"
+    url: /publications/
   - title: "Experience"
-    url: "/#experience"
+    url: /experience/
   - title: "Projects"
-    url: "/#projects"
+    url: /projects/
   - title: "Awards"
-    url: "/#awards"
+    url: /awards/
   - title: "Education"
-    url: "/#education"
+    url: /education/
