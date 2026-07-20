@@ -28,7 +28,7 @@ twitter:
 # Site Author
 author:
   name             : "Pardis Taghavi"
-  avatar           : "images/pardis-taghavi-headshot.png"
+  avatar           : "/images/pardis-taghavi-headshot.png"
   bio              : "Ph.D. student at Texas A&M University"
   location         :
   employer         :
