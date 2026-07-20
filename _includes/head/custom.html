@@ -10,11 +10,40 @@
 <link rel="stylesheet" href="/assets/css/academicons.css"/>
 
 <style>
+  html {
+    scroll-behavior: smooth;
+  }
+
   .masthead__menu-item.selected a {
     color: #2a7ae2;
     font-weight: 700;
   }
+
+  .masthead__menu-item a.is-active {
+    color: #2a7ae2;
+    font-weight: 700;
+  }
 </style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var navLinks = document.querySelectorAll('.masthead__menu-item a[href*="#"]');
+    function setActiveNav() {
+      var hash = window.location.hash || '#about';
+      navLinks.forEach(function (link) {
+        link.classList.toggle('is-active', link.getAttribute('href').endsWith(hash));
+      });
+    }
+    navLinks.forEach(function (link) {
+      link.addEventListener('click', function () {
+        navLinks.forEach(function (item) { item.classList.remove('is-active'); });
+        link.classList.add('is-active');
+      });
+    });
+    window.addEventListener('hashchange', setActiveNav);
+    setActiveNav();
+  });
+</script>
 
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
 <script type="text/x-mathjax-config">
