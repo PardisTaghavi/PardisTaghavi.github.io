@@ -174,7 +174,7 @@ h1:before, .anchor:before {
 }
 
 .masthead__menu-item a {
-  font-size: 1rem;
+  font-size: 1.15rem;
 }
 
 .masthead__menu-item.is-active a {
@@ -183,45 +183,117 @@ h1:before, .anchor:before {
 }
 
 .page__content {
-  font-size: 1.06rem;
-  line-height: 1.75;
+  font-size: 1.12rem;
+  line-height: 1.8;
 }
 
 .page__content p,
 .page__content li {
-  font-size: 1.06rem;
-  line-height: 1.75;
+  font-size: 1.12rem;
+  line-height: 1.8;
 }
 
 .page__content h1 {
-  font-size: 1.75rem;
+  font-size: 2rem;
   margin-top: 0;
-  margin-bottom: 1.25rem;
+  margin-bottom: 1.5rem;
 }
 
 .section-page .page__inner-wrap {
   background: #fafbfc;
   border: 1px solid #e3e8ee;
-  border-radius: 10px;
-  padding: 2rem 2.25rem;
-  min-height: 360px;
+  border-radius: 12px;
+  padding: 2.5rem 2.75rem;
 }
 
 .profile_box .author__name {
-  font-size: 1.3rem;
+  font-size: 1.45rem;
 }
 
 .profile_box .author__bio {
-  font-size: 1rem;
-  line-height: 1.5;
+  font-size: 1.08rem;
+  line-height: 1.55;
 }
 
 .profile_box .author__urls a {
-  font-size: 0.95rem;
+  font-size: 1.02rem;
 }
 
 .profile_box .author__avatar img {
-  max-width: 170px;
+  max-width: 180px;
+}
+
+.topic-tag {
+  font-size: 1rem;
+}
+
+.entry-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.75rem;
+  padding: 1.75rem 0;
+  border-bottom: 1px solid #dde3ea;
+
+  &:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+  }
+
+  &:first-of-type {
+    padding-top: 0.5rem;
+  }
+}
+
+.entry-card__logo {
+  flex: 0 0 84px;
+  width: 84px;
+  height: 84px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #ffffff;
+  border: 1px solid #dde3ea;
+  border-radius: 14px;
+  padding: 10px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+
+  img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+  }
+}
+
+.entry-card__logo--dual {
+  flex-direction: column;
+  gap: 6px;
+  height: auto;
+  min-height: 84px;
+  padding: 8px;
+
+  img {
+    max-height: 34px;
+  }
+}
+
+.entry-card__title {
+  font-size: 1.35rem;
+  font-weight: 700;
+  line-height: 1.35;
+  margin: 0 0 0.45rem;
+}
+
+.entry-card__role {
+  font-size: 1.15rem;
+  font-style: italic;
+  line-height: 1.45;
+  margin: 0 0 0.45rem;
+}
+
+.entry-card__meta {
+  font-size: 1.05rem;
+  color: #5f6368;
+  margin: 0;
 }
 
 @include breakpoint($large) {
@@ -233,6 +305,10 @@ h1:before, .anchor:before {
   .profile_box {
     flex-direction: column;
     align-items: flex-start;
+  }
+
+  .section-page .page {
+    @include span(10 of 12 last);
   }
 }
 
@@ -250,7 +326,12 @@ h1:before, .anchor:before {
   }
 
   .section-page .page__inner-wrap {
-    padding: 1.5rem 1.25rem;
-    min-height: auto;
+    padding: 1.75rem 1.35rem;
+  }
+
+  .entry-card {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
   }
 }
