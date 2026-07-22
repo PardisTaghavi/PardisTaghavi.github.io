@@ -174,12 +174,16 @@ h1:before, .anchor:before {
 }
 
 .masthead__menu-item a {
-  font-size: 1.1rem;
+  font-size: 1.15rem;
 }
 
 .masthead__menu-item.is-active a {
-  color: #2a7ae2;
+  color: #ef7c00;
   font-weight: 700;
+}
+
+.greedy-nav button {
+  background-color: #ef7c00;
 }
 
 .page__content {
@@ -406,6 +410,104 @@ h1:before, .anchor:before {
   align-items: center;
 }
 
+/* Simon-inspired clean logo + text rows */
+.about-grid {
+  display: flex;
+  gap: 2.5rem;
+  margin: 1.75rem 0 0.5rem;
+}
+
+.about-grid__col {
+  flex: 1;
+}
+
+.about-grid__col--wide {
+  flex: 2;
+}
+
+.about-grid h3 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin: 0 0 0.85rem;
+  border: 0;
+  padding: 0;
+}
+
+.clean-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  li {
+    font-size: 1.08rem;
+    margin-bottom: 0.45rem;
+    padding-left: 1rem;
+    position: relative;
+
+    &::before {
+      content: "•";
+      position: absolute;
+      left: 0;
+      color: #500000;
+      font-weight: 700;
+    }
+  }
+}
+
+.edu-item {
+  display: flex;
+  align-items: center;
+  gap: 1.1rem;
+  margin-bottom: 1.35rem;
+
+  &:last-child {
+    margin-bottom: 0.25rem;
+  }
+}
+
+.edu-item__icon {
+  flex: 0 0 150px;
+  width: 150px;
+  max-height: 72px;
+  object-fit: contain;
+  background: #fff;
+  border: 1px solid #eceff3;
+  border-radius: 8px;
+  padding: 0.45rem 0.6rem;
+}
+
+.edu-item__icon--stack {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+  height: auto;
+  min-height: 72px;
+  max-height: none;
+  padding: 0.55rem;
+
+  img {
+    max-width: 100%;
+    max-height: 28px;
+    object-fit: contain;
+  }
+}
+
+.edu-item__text {
+  font-size: 1.08rem;
+  line-height: 1.55;
+  color: #24292e;
+
+  strong {
+    font-weight: 700;
+  }
+
+  a {
+    color: #0366d6;
+  }
+}
+
 @include breakpoint($large) {
   .sidebar {
     position: sticky;
@@ -457,5 +559,20 @@ h1:before, .anchor:before {
   .content-card--news {
     flex-direction: column;
     gap: 0.35rem;
+  }
+
+  .about-grid {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .edu-item {
+    align-items: flex-start;
+  }
+
+  .edu-item__icon,
+  .edu-item__icon--stack {
+    flex-basis: 120px;
+    width: 120px;
   }
 }
