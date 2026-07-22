@@ -19,7 +19,7 @@ author_profile: true
 </div>
 
 <div class="content-card content-card--logo">
-  <div class="content-card__logo">
+  <div class="content-card__logo content-card__logo--wide">
     <img src="/images/polito.png" alt="Politecnico di Torino logo">
   </div>
   <div class="content-card__body">

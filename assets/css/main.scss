@@ -292,33 +292,43 @@ h1:before, .anchor:before {
 }
 
 .content-card__logo {
-  flex: 0 0 88px;
-  width: 88px;
-  height: 88px;
+  flex: 0 0 112px;
+  width: 112px;
+  height: 112px;
   display: flex;
   align-items: center;
   justify-content: center;
   background: #ffffff;
   border: 1px solid #e3e8ee;
   border-radius: 14px;
-  padding: 12px;
+  padding: 14px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
 
   img {
     max-width: 100%;
     max-height: 100%;
+    width: auto;
+    height: auto;
     object-fit: contain;
   }
 }
 
+.content-card__logo--wide {
+  flex: 0 0 168px;
+  width: 168px;
+  height: 96px;
+  padding: 12px 16px;
+}
+
 .content-card__logo--dual {
   flex-direction: column;
-  gap: 8px;
+  gap: 10px;
   height: auto;
-  min-height: 88px;
+  min-height: 112px;
+  width: 112px;
 
   img {
-    max-height: 32px;
+    max-height: 40px;
   }
 }
 
