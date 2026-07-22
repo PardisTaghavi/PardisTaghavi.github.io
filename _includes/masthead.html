@@ -5,7 +5,7 @@
       <nav id="site-nav" class="greedy-nav">
         <button><span class="navicon"></span></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg persist{% if page.url == '/' %} is-active{% endif %}">
+          <li class="masthead__menu-item masthead__menu-item--lg persist">
             <a href="{{ base_path }}/">{{ site.author.name }}</a>
           </li>
           {% for link in site.data.navigation.main %}

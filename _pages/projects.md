@@ -5,28 +5,30 @@ section: true
 author_profile: true
 ---
 
-# 🚀 Projects
+# Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/ava_.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**AVA: Autonomous Vehicles for All**
-
-<a href='https://avadataportal.web.illinois.edu/index.html' target="_blank" rel="noopener noreferrer"> website</a> 
-- Lead of the Perception Team : Developed a perception system tailored for diverse route scenarios, including both urban and rural environments.
-
+<div class="content-card">
+  <div class="content-card__media">
+    <img src="/images/ava_.png" alt="AVA project">
+  </div>
+  <div class="content-card__body">
+    <h3 class="content-card__title">AVA: Autonomous Vehicles for All</h3>
+    <p class="content-card__meta">Lead of the Perception Team: built perception for diverse urban and rural route scenarios.</p>
+    <p class="content-card__links">
+      <a href="https://avadataportal.web.illinois.edu/index.html" target="_blank" rel="noopener noreferrer">Website</a>
+    </p>
+  </div>
 </div>
-</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/mcity.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**MCITY 2.0 USE CASE AV PERCEPTION**
-
-<a href='https://github.com/PardisTaghavi/Mcity2.0_demo' target="_blank" rel="noopener noreferrer"> code</a> 
-
-- 3D point cloud generation and clustering techniques for improved object detection and scene understanding from a single RGB image.
-- Validated algorithm outputs through simulation and remote operation on a real autonomous test vehicle at MCity 2.0.
-
-</div>
+<div class="content-card">
+  <div class="content-card__media">
+    <img src="/images/mcity.png" alt="MCity project">
+  </div>
+  <div class="content-card__body">
+    <h3 class="content-card__title">MCity 2.0 Use Case AV Perception</h3>
+    <p class="content-card__meta">3D point cloud generation and clustering for object detection from a single RGB image; validated in simulation and on a real AV at MCity 2.0.</p>
+    <p class="content-card__links">
+      <a href="https://github.com/PardisTaghavi/Mcity2.0_demo" target="_blank" rel="noopener noreferrer">Code</a>
+    </p>
+  </div>
 </div>
