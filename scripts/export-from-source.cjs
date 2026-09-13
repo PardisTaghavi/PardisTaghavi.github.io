@@ -24,6 +24,7 @@ try {
   const html = `<!doctype html>
 <html lang="en">
 <head>
+  <meta name="naver-site-verification" content="9b206be820daacad2e8f1be70be03f7a052195b0" />
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Pardis Taghavi | Video Generation &amp; World Models</title>
