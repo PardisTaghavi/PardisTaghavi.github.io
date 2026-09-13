@@ -57,7 +57,7 @@ ${body.replace(/(<\/(?:p|section|article|header|nav|footer|main)>)/g, '$1\n')}
   fs.copyFileSync(path.join(cssDir, styles[0]), path.join(target, 'assets/site.css'));
   fs.cpSync(path.join(source, 'public/images'), path.join(target, 'images'), {recursive:true});
   fs.copyFileSync(path.join(source, 'public/resume.pdf'), path.join(target, 'resume.pdf'));
-  fs.writeFileSync(path.join(target, 'index.html'), html);
+  fs.writeFileSync(path.join(target, 'index.html'), require('./homepage-seo.cjs').withSeo(html));
   fs.writeFileSync(path.join(target, '.nojekyll'), '');
   console.log('Exported current page, stylesheet, original media, and resume.');
 } finally {
