@@ -1,11 +1,18 @@
 const canonical = 'https://pardistaghavi.github.io/';
 const description = 'Pardis Taghavi is a final-year PhD student at Texas A&M University researching efficient and controllable video generation, world models, sparse attention, and physical AI.';
+const portrait = {
+  '@type': 'ImageObject', '@id': canonical + '#portrait',
+  url: canonical + 'images/pardis-taghavi-headshot.png',
+  contentUrl: canonical + 'images/pardis-taghavi-headshot.png',
+  width: 498, height: 512, caption: 'Portrait of Pardis Taghavi'
+};
 const profile = {
   '@context': 'https://schema.org', '@type': 'ProfilePage',
   '@id': canonical + '#profile', url: canonical, name: 'Pardis Taghavi | Video Generation & World Models',
+  primaryImageOfPage: portrait,
   mainEntity: {
     '@type': 'Person', '@id': canonical + '#person', name: 'Pardis Taghavi', url: canonical,
-    image: canonical + 'images/pardis-taghavi-headshot.png', description,
+    image: { '@id': canonical + '#portrait' }, description,
     jobTitle: 'Graduate Researcher',
     affiliation: {'@type': 'CollegeOrUniversity', name: 'Texas A&M University', url: 'https://www.tamu.edu/'},
     alumniOf: {'@type': 'CollegeOrUniversity', name: 'Politecnico di Torino', url: 'https://www.polito.it/'},
